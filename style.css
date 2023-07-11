@@ -180,11 +180,16 @@ footer{
     margin-top: 40px;
 }
 .enter{
-    width: 700px;
-    height: 64px;
+    width: 1350px;
+    height: 67px;
     border-radius: 8px;
     background: #FFF;
     size: 600px;
     text-align: center;
-    justify-content: center;
+}
+.sub{
+    color: white;
+    border-radius: 8px;
+    margin-top: 10px;
+    background: #E55473;;
 }
