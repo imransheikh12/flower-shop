@@ -1,24 +1,24 @@
 * {
   margin: 0%;
 }
-.heads{
+.heads {
   display: flex;
   justify-content: space-around;
   align-items: center;
   background-color: rgba(229, 84, 115, 0.1);
   margin-bottom: 15px;
 }
-.header{
+.header {
   padding: 150px;
 }
-.flower{
+.flower {
   width: 400px;
   padding: 120px 220px 0px 0%;
   margin: 0;
   height: 600px;
   margin-top: zero;
 }
-.button-primary{
+.button-primary {
   padding: 15px;
   width: 100px;
   background-color: #e55473;
@@ -26,33 +26,33 @@
   color: white;
   border-radius: 8px;
 }
-.heading{
+.heading {
   display: flex;
   font-size: 50px;
   font-family: Lato;
   font-style: normal;
 }
-.head-description{
+.head-description {
   margin-top: 15px;
 }
-.button-primary{
+.button-primary {
   margin-top: 15px;
 }
 /* main section style */
 /* about section style */
-.about{
+.about {
   padding: 100px;
   border-radius: 10px;
   margin: 0px 300px;
 }
-.section-title{
+.section-title {
   color: #272727;
   text-align: center;
   font-size: 35px;
   font-weight: 800;
   font-family: Lato;
 }
-.section-des{
+.section-des {
   color: rgba(39, 39, 39, 0.6);
   text-align: center;
   font-family: Lato;
@@ -62,7 +62,7 @@
   line-height: 30px;
   margin-top: 10px;
 }
-.fulls{
+.fulls {
   width: 464px;
   height: 538px;
   border-radius: 300px 300px 0px 0px;
@@ -70,7 +70,7 @@
   width: 410px;
   height: 428px;
 }
-.full{
+.full {
   color: #272727;
   text-align: center;
   font-family: Lato;
@@ -79,19 +79,55 @@
   line-height: 35px;
   text-decoration: underline;
 }
-.pic{
-    display: flex;
-    justify-content: space-evenly;
+.pic {
+  display: flex;
+  justify-content: space-evenly;
 }
-.flower-con{
-    width: 100%;
-    margin: 0%;
-    height: 320px;
-    flex-shrink: 0;
+.flower-con {
+  width: 100%;
+  margin: 0%;
+  height: 320px;
+  flex-shrink: 0;
 }
-.abouts{
-    padding: 130px;
-    border-radius: 10px;
-    background: rgba(39, 39, 39, 0.05);
-    margin: 250px;
+.abouts {
+  padding: 40px;
+  border-radius: 10px;
+  background: rgba(39, 39, 39, 0.05);
+  margin: 250px;
+}
+.abouts-info-container {
+  display: flex;
+  justify-content: space-around;
+}
+.abouts-info {
+  text-align: center;
+}
+.abouts-in {
+  padding: 280px;
+  border-radius: 8px;
+  background: rgba(229, 84, 115, 0.05);
+  margin-bottom: 100px;
+  display: flex;
+  text-align: center;
+}
+.title {
+  text-align: center;
+  margin-bottom: 15px;
+  font-size: 35px;
+}
+.paragaph {
+  text-align: center;
+  margin-bottom: 15px;
+}
+.buttons {
+  border-radius: 8px;
+  background: #e55473;
+  display: inline-flex;
+  padding: 20px 43px;
+  align-items: flex-start;
+  gap: 10px;
+  color: white;
+}
+.imagess{
+    
 }
