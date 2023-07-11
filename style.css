@@ -128,8 +128,29 @@
   gap: 10px;
   color: white;
 }
-#what-i-do{
-    padding: 30px 440px;
-    text-align: center;
-    color: rgba(39, 39, 39, 0.60);
+#what-i-do {
+  padding: 30px 440px;
+  text-align: center;
+  color: rgba(39, 39, 39, 0.6);
 }
+.devision {
+  display: flex;
+}
+.photos {
+  padding: 10px;
+  width: 310px;
+  height: 100px;
+}
+.section-class {
+  border-radius: 8px;
+  margin-bottom: 100px;
+  margin-top: 110px;
+  padding: 90px;
+}
+
+/* footer{
+    background: #111010;
+    padding: 150px;
+    text-align: center;
+    color: #E55473;
+} */
