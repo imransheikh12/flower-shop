@@ -142,14 +142,6 @@
     width: 320px;
     height: 390px;
 }
-.section-class {
-    border-radius: 8px;
-    margin-bottom: 100px;
-    margin-top: 100px;
-    padding: 90px;
-    width: 200px;
-    background-image: url('./flower asset/Rectangle\ 9.png');
-}
 footer{
     background: #111010;
     padding: 120px;
@@ -165,4 +157,34 @@ footer{
 }
 .p-class{
     margin-top: 30px;
+}
+.div-class{
+    background-image: url('./flower asset/Rectangle\ 9.png');
+    width: 1300px;
+    height: 300px;
+    margin-left: 20px;
+    justify-content: center;
+    margin-top: 50px;
+}
+.get-class{
+    text-align: center;
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 40px;
+}
+.first-class{
+    text-align: center;
+    color: rgba(39, 39, 39, 0.6);
+    font-weight: 400;
+    margin-top: 40px;
+}
+.enter{
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+    background: #FFF;
+    size: 600px;
+    text-align: center;
+    justify-content: center;
 }
